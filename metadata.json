@@ -1,0 +1,6 @@
+{
+  "name": "Position Size & Risk Calculator",
+  "description": "Professional position sizing and margin risk calculator with stop loss percentage, leverage, liquidation distance alerts, and risk-reward modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
